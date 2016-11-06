@@ -13,14 +13,12 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./css/style.css">
 
-#+BEGIN_HTML
-<div id="content">
+#+BEGIN_EXPORT html
 <nav id="bar">
     <div>
         <a class="nav-link blue" href="https://emacs-china.org/"><i class="fa fa-group" aria-hidden="true"></i>&nbsp;Forum</a>
         <a class="nav-link yellow" href="http://book.emacs-china.org" target="_blank"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Book</a>
         <a class="nav-link violet" href="http://elpa.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;ELPA</a>
-        <a class="nav-link violet" href="http://donate.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;Donate</a>
         <a class="fork-us" href="https://github.com/emacs-china" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
             &nbsp;Fork Us</a>
     </div>
@@ -33,8 +31,7 @@
         <span class="text">Emacs China 捐赠页面</span>
     </h1>
 </div>
-</div>
-#+END_HTML
+#+END_EXPORT
 
 各位 Emacs 道友，大家好。
 
@@ -44,6 +41,8 @@
 
 
 ** 捐赠的总金额：1974 （这个数字会不定期更新）
+
+** 捐赠款余额：150
 
 ** 捐赠方法：扫描下面二维码进行捐赠，捐赠金额不限
 
