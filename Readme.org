@@ -13,26 +13,6 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./css/style.css">
 
-#+BEGIN_HTML
-<nav id="bar">
-    <div>
-        <a class="nav-link blue" href="https://emacs-china.org/"><i class="fa fa-group" aria-hidden="true"></i>&nbsp;Forum</a>
-        <a class="nav-link yellow" href="http://book.emacs-china.org" target="_blank"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Book</a>
-        <a class="nav-link violet" href="http://elpa.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;ELPA</a>
-        <a class="nav-link violet" href="http://donate.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;DONATE</a>
-        <a class="fork-us" href="https://github.com/emacs-china" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
-            &nbsp;Fork Us</a>
-    </div>
-</nav>
-<div class="heading">
-    <h1 class="heading-main">
-        <span class="img">
-            <img class="emacs-china-logo" src="./imgs/logo.png"/>
-        </span>
-        <span class="text">Emacs China 捐赠页面</span>
-    </h1>
-</div>
-#+END_HTML
 
 各位 Emacs 道友，大家好。
 
@@ -63,6 +43,11 @@
 2. 2016-10 购买阿里云 VPS 两年（花费 1024 元）
 3. 2016-04 至 2016-11 购买 linode 服务器 （花费 480 元）
 
+** FAQ
+1. 为什么捐赠的二维码是我个人的微信和支付宝收款？
+因为目前 emacs-china 网站和服务器的维护工作主要由我在做，emacs china 目前并没有成立组织，也没有
+公共的收款帐号，更加没有会计，所以捐赠的钱的支配主要是由我个人来负责。
+BTW: 即使没有其他人愿意捐赠，我也会一直捐赠下去，除非我混得不好，穷困潦倒。
 
 ** 致谢
 [[https://github.com/li-xinyang][@li-xinyang]] 设计 http://elpa.emacs-china.org/ 这个页面
