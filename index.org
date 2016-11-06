@@ -54,6 +54,7 @@
 | [[./weixin-donate.jpeg]] | [[./zhifubao-donate.jpeg]] |
 
 ** 捐赠者列表
+(这里没有你的名字？点击此处添加：https://github.com/emacs-china/donate/issues/2)
 
 | 捐赠者        | 捐赠金额 |
 |---------------+----------|
