@@ -43,23 +43,32 @@
 如果域名到期，或者服务器到期，会优先使用捐赠余额。
 如果余额不足，默认由我(zilongshanren)继续捐赠。直至下一个周期有新的捐赠款为止。
 
-** 捐赠的总金额：1974 （这个数字会定期更新）
+** 捐赠的总金额： 2214 （这个数字会定期更新）
 
-** 捐赠款余额：150（这个数字会定期更新）
+** 捐赠款余额：390（这个数字会定期更新）
 
-** 捐赠方法：扫描下面二维码进行捐赠，捐赠金额不限
+** 捐赠方法：
 
+*** 方法一： 添加 zilongshanren 微信号转帐（注明来意），或者直接通过支付宝帐号 guanghui8827@126.com 转帐（请注明转帐意图）
+
+*** 方法二： 扫描下面二维码进行捐赠，捐赠金额不限
 | 微信                 | 支付宝                 |
 |----------------------+------------------------|
 | [[./weixin-donate.jpeg]] | [[./zhifubao-donate.jpeg]] |
 
 ** 捐赠者列表
-(这里没有你的名字？点击此处添加：https://github.com/emacs-china/donate/issues/2)
+(这里没有你的名字？点击[[https://github.com/emacs-china/donate/issues/2][此处添加]] 或者发邮件至 guanghui8827@gmail.com)
 
-| 捐赠者        | 捐赠金额 |
-|---------------+----------|
-| [[http://www.weibo.com/zilongshanren][zilongshanren]] |     1824 |
-| [[https://github.com/aborn][aborn]]         |      150 |
+| 捐赠者        | 捐赠金额 |  捐赠日期 |
+|---------------+----------+-----------|
+| 匿名          |       20 | 2016-11-6 |
+| Magis         |       20 | 2016-11-6 |
+| 天舒          |       50 | 2016-11-6 |
+| 匿名          |      150 | 2016-11-6 |
+| [[https://github.com/aborn][aborn]]         |      150 | 2016-11-6 |
+| [[http://www.weibo.com/zilongshanren][zilongshanren]] |      320 | 2016-4-20 |
+| [[http://www.weibo.com/zilongshanren][zilongshanren]] |     1024 | 2016-9-21 |
+| [[http://www.weibo.com/zilongshanren][zilongshanren]] |      480 | 2016-4-20 |
 
 
 ** 捐赠金额用途
