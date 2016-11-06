@@ -65,7 +65,7 @@
 | 匿名          |       10 | 2016-11-6 |
 | Magis         |       20 | 2016-11-6 |
 | 天舒          |       50 | 2016-11-6 |
-| 匿名          |      150 | 2016-11-6 |
+| [[https://github.com/lujun9972][lujun9972]]     |      150 | 2016-11-6 |
 | [[https://github.com/aborn][aborn]]         |      150 | 2016-11-6 |
 | [[http://www.weibo.com/zilongshanren][zilongshanren]] |      320 | 2016-4-20 |
 | [[http://www.weibo.com/zilongshanren][zilongshanren]] |     1024 | 2016-9-21 |
