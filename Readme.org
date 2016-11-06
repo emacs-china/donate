@@ -1,0 +1,70 @@
+#+OPTIONS: title:nil
+#+OPTIONS: num:nil 
+#+OPTIONS: toc:nil
+#+OPTIONS: html-style:nil 
+#+OPTIONS: html-scripts:nil
+#+OPTIONS: html-preamble:nil 
+#+OPTIONS: html-postamble:nil
+#+TITLE: Emacs China Donate Page
+#+AUTHOR: Emacs China
+#+HTML_HEAD: <link rel="apple-touch-icon" type="image/png" href="https://emacs-china.org/uploads/default/original/1X/ebb284b1e209aa93c9744227e1374130f8190aec.png">
+#+HTML_HEAD: <link rel="icon" sizes="144x144" href="https://emacs-china.org/uploads/default/original/1X/ebb284b1e209aa93c9744227e1374130f8190aec.png">
+#+HTML_HEAD: <link rel="icon" type="image/png" href="https://emacs-china.org/uploads/default/original/1X/477ac7ed14175dfd2deb65ee3c3d83d18a8906b8.ico">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+#+BEGIN_HTML
+<nav id="bar">
+    <div>
+        <a class="nav-link blue" href="https://emacs-china.org/"><i class="fa fa-group" aria-hidden="true"></i>&nbsp;Forum</a>
+        <a class="nav-link yellow" href="http://book.emacs-china.org" target="_blank"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Book</a>
+        <a class="nav-link violet" href="http://elpa.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;ELPA</a>
+        <a class="nav-link violet" href="http://donate.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;DONATE</a>
+        <a class="fork-us" href="https://github.com/emacs-china" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
+            &nbsp;Fork Us</a>
+    </div>
+</nav>
+<div class="heading">
+    <h1 class="heading-main">
+        <span class="img">
+            <img class="emacs-china-logo" src="./imgs/logo.png"/>
+        </span>
+        <span class="text">Emacs China 捐赠页面</span>
+    </h1>
+</div>
+#+END_HTML
+
+各位 Emacs 道友，大家好。
+
+为了让 Emacs China 更加健康可持续地发展，从今日起 Emacs China 开始接受社区的捐赠。
+
+捐赠的钱主要用于支付域名费用（每年 26 刀）和服务器费用（一年 520）
+
+
+** 捐赠的总金额：1823 （这个数字会不定期更新）
+
+** 捐赠方法：扫描下面二维码进行捐赠，捐赠金额不限
+
+| 微信                 | 支付宝                 |
+|----------------------+------------------------|
+| [[./weixin-donate.jpeg]] | [[./zhifubao-donate.jpeg]] |
+
+** 捐赠者列表
+
+| 捐赠者        | 捐赠金额 |
+|---------------+----------|
+| [[http://www.weibo.com/zilongshanren][zilongshanren]] |     1824 |
+
+
+** 捐赠金额用途
+以后每一笔捐赠款的开销都会在这里列出来。
+
+1. 2016-04 购买域名 2 年 （花费 320 元）
+2. 2016-10 购买阿里云 VPS 两年（花费 1024 元）
+3. 2016-04 至 2016-11 购买 linode 服务器 （花费 480 元）
+
+
+** 致谢
+[[https://github.com/li-xinyang][@li-xinyang]] 设计 http://elpa.emacs-china.org/ 这个页面
+
+[[https://github.com/qinshulei][@qinshulei]] 改进 http://elpa.emacs-china.org/ 这个页面
