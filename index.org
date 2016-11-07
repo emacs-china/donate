@@ -69,7 +69,7 @@
 | 雨晨          | 10(zhifubao)    | 2016-11-6 |
 | 松鹏          | 34(zhifubao)    | 2016-11-6 |
 | 陈志          | 50(zhifubao)    | 2016-11-6 |
-| 天然二呆      | 50(zhifubao)    | 2016-11-6 |
+| [[https://github.com/tumashu][天然二呆]]      | 50(zhifubao)    | 2016-11-6 |
 | 张小浩        | 10(zhifubao)    | 2016-11-6 |
 | [[https://github.com/kuangdash][kuangdash]]     | 81.92(zhifubao) | 2016-11-6 |
 | 匿名          | 50(wechat)      | 2016-11-6 |
