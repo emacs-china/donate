@@ -47,12 +47,12 @@
 
 ** 捐赠的总金额
 
-3224.98
+3394.98
 元 
 
 ** 捐赠款余额
 
-1400.98
+1570.98
 元 
 
 ** 捐赠方法
@@ -80,6 +80,9 @@
 
 | 捐赠者        | 捐赠金额        |  捐赠日期 |
 |---------------+-----------------+-----------|
+| 匿名          | 100(weixin)     | 2016-11-8 |
+| 梁怀文        | 50(zhifubao)    | 2016-11-8 |
+| wayne         | 20(zhifubao)    | 2016-11-8 |
 | 温润如玉      | 100(zhifubao)   | 2016-11-7 |
 | [[https://github.com/codefalling][codefalling]]   | 50(wechat)      | 2016-11-7 |
 | 匿名          | 10(wechat)      | 2016-11-7 |
@@ -100,7 +103,7 @@
 | [[https://github.com/tumashu][天然二呆]]      | 50(zhifubao)    | 2016-11-6 |
 | 张小浩        | 10(zhifubao)    | 2016-11-6 |
 | [[https://github.com/kuangdash][kuangdash]]     | 81.92(zhifubao) | 2016-11-6 |
-| 匿名          | 50(wechat)      | 2016-11-6 |
+| [[https://github.com/erhandsome][erhandsome]]    | 50(wechat)      | 2016-11-6 |
 | 匿名          | 10(qq)          | 2016-11-6 |
 | 匿名          | 50(zhifubao)    | 2016-11-6 |
 | [[https://github.com/DogLooksGood][DogLooksGood]]  | 50(zhifubao)    | 2016-11-6 |
