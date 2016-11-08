@@ -252,3 +252,51 @@ code{
     padding:0 5px;
     white-space:nowrap;
 }
+
+ol, ul {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+li {
+    text-align: left;
+}
+
+img {
+    width: 300px;
+    max-width: 100%;
+}
+
+.row {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.col-md-6 {
+    width: 50%;
+    float: left;
+}
+.text-center {
+    text-align: center;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+
+#text-orgheadline3 > p,
+#text-orgheadline2 > p {
+    text-align: center;
+    font-size: 66px;
+    font-family: 'Orbitron', sans-serif;
+    color: #424242;
+}
