@@ -43,9 +43,9 @@
 如果域名到期，或者服务器到期，会优先使用捐赠余额。
 如果余额不足，默认由我(zilongshanren)继续捐赠。直至下一个周期有新的捐赠款为止。
 
-** 捐赠的总金额： 3224.98 （这个数字会定期更新）
+** 捐赠的总金额： 3394.98 （这个数字会定期更新）
 
-** 捐赠款余额：1400.98（这个数字会定期更新）
+** 捐赠款余额：1570.98（这个数字会定期更新）
 
 ** 捐赠方法：
 
@@ -61,6 +61,9 @@
 
 | 捐赠者        | 捐赠金额        |  捐赠日期 |
 |---------------+-----------------+-----------|
+| 匿名          | 100(weixin)     | 2016-11-8 |
+| 梁怀文        | 50(zhifubao)    | 2016-11-8 |
+| wayne         | 20(zhifubao)    | 2016-11-8 |
 | 温润如玉      | 100(zhifubao)   | 2016-11-7 |
 | [[https://github.com/codefalling][codefalling]]   | 50(wechat)      | 2016-11-7 |
 | 匿名          | 10(wechat)      | 2016-11-7 |
@@ -81,7 +84,7 @@
 | [[https://github.com/tumashu][天然二呆]]      | 50(zhifubao)    | 2016-11-6 |
 | 张小浩        | 10(zhifubao)    | 2016-11-6 |
 | [[https://github.com/kuangdash][kuangdash]]     | 81.92(zhifubao) | 2016-11-6 |
-| 匿名          | 50(wechat)      | 2016-11-6 |
+| [[https://github.com/erhandsome][erhandsome]]    | 50(wechat)      | 2016-11-6 |
 | 匿名          | 10(qq)          | 2016-11-6 |
 | 匿名          | 50(zhifubao)    | 2016-11-6 |
 | [[https://github.com/DogLooksGood][DogLooksGood]]  | 50(zhifubao)    | 2016-11-6 |
