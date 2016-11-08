@@ -1,3 +1,6 @@
+#+TITLE: Emacs China Donate Page
+#+AUTHOR: Emacs China
+
 #+OPTIONS: title:nil
 #+OPTIONS: num:nil 
 #+OPTIONS: toc:nil
@@ -5,56 +8,72 @@
 #+OPTIONS: html-scripts:nil
 #+OPTIONS: html-preamble:nil 
 #+OPTIONS: html-postamble:nil
-#+TITLE: Emacs China Donate Page
-#+AUTHOR: Emacs China
+
 #+HTML_HEAD: <link rel="apple-touch-icon" type="image/png" href="https://emacs-china.org/uploads/default/original/1X/ebb284b1e209aa93c9744227e1374130f8190aec.png">
 #+HTML_HEAD: <link rel="icon" sizes="144x144" href="https://emacs-china.org/uploads/default/original/1X/ebb284b1e209aa93c9744227e1374130f8190aec.png">
 #+HTML_HEAD: <link rel="icon" type="image/png" href="https://emacs-china.org/uploads/default/original/1X/477ac7ed14175dfd2deb65ee3c3d83d18a8906b8.ico">
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css">
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./css/style.css">
+#+HTML_HEAD: <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
 
-#+BEGIN_EXPORT html
-<nav id="bar">
-    <div>
-        <a class="nav-link blue" href="https://emacs-china.org/"><i class="fa fa-group" aria-hidden="true"></i>&nbsp;Forum</a>
-        <a class="nav-link yellow" href="http://book.emacs-china.org" target="_blank"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Book</a>
-        <a class="nav-link violet" href="http://elpa.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;ELPA</a>
-        <a class="fork-us" href="https://github.com/emacs-china" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
-            &nbsp;Fork Us</a>
-    </div>
-</nav>
-<div class="heading">
-    <h1 class="heading-main">
-        <span class="img">
-            <img class="emacs-china-logo" src="./imgs/logo.png"/>
-        </span>
-        <span class="text">Emacs China 捐赠页面</span>
-    </h1>
-</div>
-#+END_EXPORT
+#+HTML: <nav id="bar">
+#+HTML:    <div>
+#+HTML:        <a class="nav-link blue" href="https://emacs-china.org/"><i class="fa fa-group" aria-hidden="true"></i>&nbsp;Forum</a>
+#+HTML:        <a class="nav-link yellow" href="http://book.emacs-china.org" target="_blank"><i class="fa fa-book" aria-hidden="true"></i>&nbsp;Book</a>
+#+HTML:        <a class="nav-link violet" href="http://elpa.emacs-china.org"><i class="fa fa-server" aria-hidden="true"></i>&nbsp;ELPA</a>
+#+HTML:        <a class="fork-us" href="https://github.com/emacs-china" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
+#+HTML:            &nbsp;Fork Us</a>
+#+HTML:    </div>
+#+HTML: </nav>
+#+HTML: <div class="heading">
+#+HTML:     <h1 class="heading-main">
+#+HTML:         <span class="img">
+#+HTML:             <img class="emacs-china-logo" src="./imgs/logo.png"/>
+#+HTML:         </span>
+#+HTML:         <span class="text">Emacs China 捐赠页面</span>
+#+HTML:     </h1>
+#+HTML: </div>
 
-各位 Emacs 道友，大家好。
+各位 Emacs 道友，
 
-为了让 Emacs China 更加健康可持续地发展，从今日起 Emacs China 开始接受社区的捐赠。
+大家好。
 
-捐赠的钱主要用于支付域名费用和服务器费用。
+为了让 Emacs China 更加健康可持续地发展，从今日起 Emacs China 开始接受社区的捐赠。捐赠的钱主要用于支付域名费用和服务器费用。
 
 ** 关于捐赠说明
-如果域名到期，或者服务器到期，会优先使用捐赠余额。
+
+如果域名到期，或者服务器到期，会优先使用捐赠余额。 
 如果余额不足，默认由我(zilongshanren)继续捐赠。直至下一个周期有新的捐赠款为止。
 
-** 捐赠的总金额： 3394.98 （这个数字会定期更新）
+** 捐赠的总金额
 
-** 捐赠款余额：1570.98（这个数字会定期更新）
+3394.98
+元 
 
-** 捐赠方法：
+** 捐赠款余额
 
-*** 方法一： 添加 zilongshanren 微信号转帐（注明来意），或者直接通过支付宝帐号 guanghui8827@126.com 转帐（请注明转帐意图）
+1570.98
+元 
 
-*** 方法二： 扫描下面二维码进行捐赠，捐赠金额不限
-| 微信                 | 支付宝                 |
-|----------------------+------------------------|
-| [[./weixin-donate.jpeg]] | [[./zhifubao-donate.jpeg]] |
+** 捐赠方法
+
+*** 方法一
+    添加 zilongshanren 微信号转帐（注明来意），或者直接通过支付宝帐号 guanghui8827@126.com 转帐（请注明转帐意图）
+
+*** 方法二
+    扫描下面二维码进行捐赠，捐赠金额不限
+
+#+HTML: <div class="row clearfix">
+#+HTML:   <div class="col-md-6">
+#+HTML:     <img src="./imgs/weixin-donate.jpeg" class="img-responsive"/>
+#+HTML:     <p class="text-center"><strong>微信</strong></p>
+#+HTML:   </div>
+#+HTML:   <div class="col-md-6">
+#+HTML:     <img src="./imgs/weixin-donate.jpeg" class="img-responsive"/>
+#+HTML:     <p class="text-center"><strong>支付宝</strong></p>
+#+HTML:   </div>
+#+HTML: </div>
+
 
 ** 捐赠者列表
 (这里没有你的名字？点击[[https://github.com/emacs-china/donate/issues/2][此处添加]] 或者发邮件至 guanghui8827@gmail.com)
@@ -94,17 +113,14 @@
 | [[http://www.weibo.com/zilongshanren][zilongshanren]] | 1024            | 2016-9-21 |
 | [[http://www.weibo.com/zilongshanren][zilongshanren]] | 480             | 2016-4-20 |
 
-
 ** 捐赠金额用途
-1. 2016-04 购买域名 2 年 （花费 320 元）
-2. 2016-10 购买阿里云 VPS 两年（花费 1024 元）
-3. 2016-04 至 2016-11 购买 linode 服务器 （花费 480 元）
 
-** 域名过期时间：2019-02-20
-
-** VPS 过期时间: 2018-09-21
+| 日期 | 支出项目 | 费用（元）  | 备注 | 
+|-----+---------+-----------+-----|
+| 2016-04 | 购买域名 2 年 |320|域名过期时间 2019-02-20|
+| 2016-10 | 购买阿里云 VPS 两年|1024 |VPS 过期时间: 2018-09-21|
+| 2016-04 | linode 服务器| 480 | 2016-04 至 2016-11 购买 linode 服务器|
 
 ** 致谢
-[[https://github.com/li-xinyang][@li-xinyang]] 设计 http://elpa.emacs-china.org/ 这个页面
 
-[[https://github.com/qinshulei][@qinshulei]] 改进 http://elpa.emacs-china.org/ 这个页面
+[[https://github.com/li-xinyang][@li-xinyang]] 改进 http://donate.emacs-china.org/
