@@ -65,7 +65,7 @@
             <h2 id="orgheadline2">捐赠的总金额</h2>
             <div class="outline-text-2" id="text-orgheadline2">
                 <p>
-                    <%= @total_donation %> 元
+                    <%= total_amount.round(2) %> 元
                 </p>
             </div>
         </div>
@@ -74,7 +74,7 @@
             <h2 id="orgheadline3">捐赠款余额</h2>
             <div class="outline-text-2" id="text-orgheadline3">
                 <p>
-                    <%= @balance %> 元
+                    <%= ( total_amount + total_expense ).round(2) %> 元
                 </p>
             </div>
         </div>
@@ -133,203 +133,13 @@
                     </colgroup>
                     <thead>
                         <tr>
+                            <th scope="col" class="org-right">捐赠日期</th>
                             <th scope="col" class="org-left">捐赠者</th>
                             <th scope="col" class="org-left">捐赠金额</th>
-                            <th scope="col" class="org-right">捐赠日期</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">100(weixin)</td>
-                            <td class="org-right">2016-11-8</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">梁怀文</td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-8</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">wayne</td>
-                            <td class="org-left">20(zhifubao)</td>
-                            <td class="org-right">2016-11-8</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">温润如玉</td>
-                            <td class="org-left">100(zhifubao)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/codefalling">codefalling</a></td>
-                            <td class="org-left">50(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">10(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">fox love sea</td>
-                            <td class="org-left">22.22(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">10.24(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">lengyueyang</td>
-                            <td class="org-left">50(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">野鬼BD7WD</td>
-                            <td class="org-left">20(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">光影</td>
-                            <td class="org-left">10(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">zhaxin</td>
-                            <td class="org-left">128(wechat)</td>
-                            <td class="org-right">2016-11-7</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">杨封禅</td>
-                            <td class="org-left">100(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">30(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">慕容风</td>
-                            <td class="org-left">100(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">君与一夏</td>
-                            <td class="org-left">25(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">Yoyo</td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">雨晨</td>
-                            <td class="org-left">10(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">松鹏</td>
-                            <td class="org-left">34(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">陈志</td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/tumashu">天然二呆</a></td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">张小浩</td>
-                            <td class="org-left">10(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/kuangdash">kuangdash</a></td>
-                            <td class="org-left">81.92(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/erhandsome">erhandsome</a></td>
-                            <td class="org-left">50(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">10(qq)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left">匿名</td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/DogLooksGood">DogLooksGood</a></td>
-                            <td class="org-left">50(zhifubao)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/lujun9972">darksun</a></td>
-                            <td class="org-left">150(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="https://github.com/aborn">aborn</a></td>
-                            <td class="org-left">150(wechat)</td>
-                            <td class="org-right">2016-11-6</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="http://www.weibo.com/zilongshanren">zilongshanren</a></td>
-                            <td class="org-left">320</td>
-                            <td class="org-right">2016-4-20</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="http://www.weibo.com/zilongshanren">zilongshanren</a></td>
-                            <td class="org-left">1024</td>
-                            <td class="org-right">2016-9-21</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-left"><a href="http://www.weibo.com/zilongshanren">zilongshanren</a></td>
-                            <td class="org-left">480</td>
-                            <td class="org-right">2016-4-20</td>
-                        </tr>
+                        <%= list_donation  %>
                     </tbody>
                 </table>
             </div>
@@ -343,42 +153,22 @@
 
                     <colgroup>
                         <col class="org-right" />
-
                         <col class="org-left" />
-
                         <col class="org-right" />
-
+                        <col class="org-left" />
                         <col class="org-left" />
                     </colgroup>
                     <thead>
                         <tr>
                             <th scope="col" class="org-right">日期</th>
-                            <th scope="col" class="org-left">支出项目</th>
+                            <th scope="col" class="org-right">授权</th>
                             <th scope="col" class="org-right">费用（元）</th>
+                            <th scope="col" class="org-left">支出项目</th>
                             <th scope="col" class="org-left">备注</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
-                            <td class="org-right">2016-04</td>
-                            <td class="org-left">购买域名 2 年</td>
-                            <td class="org-right">320</td>
-                            <td class="org-left">域名过期时间 2019-02-20</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-right">2016-10</td>
-                            <td class="org-left">购买阿里云 VPS 两年</td>
-                            <td class="org-right">1024</td>
-                            <td class="org-left">VPS 过期时间: 2018-09-21</td>
-                        </tr>
-
-                        <tr>
-                            <td class="org-right">2016-04</td>
-                            <td class="org-left">linode 服务器</td>
-                            <td class="org-right">480</td>
-                            <td class="org-left">2016-04 至 2016-11 购买 linode 服务器</td>
-                        </tr>
+                        <%= list_expense %>
                     </tbody>
                 </table>
             </div>
@@ -393,6 +183,6 @@
             </div>
         </div>
     </div>
-</body>
+
 
 </html>
