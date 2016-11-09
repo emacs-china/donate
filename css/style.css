@@ -35,7 +35,7 @@ nav#bar {
 }
 
 nav#bar div {
-    width: 395px;
+    width: 490px;
     margin: 0px auto;
 }
 
@@ -242,6 +242,7 @@ th {
     }
     .fork-us {
         float: left !important;
+        margin-left: 10px;
     }
 }
 

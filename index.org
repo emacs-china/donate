@@ -69,7 +69,7 @@
 #+HTML:     <p class="text-center"><strong>微信</strong></p>
 #+HTML:   </div>
 #+HTML:   <div class="col-md-6">
-#+HTML:     <img src="./imgs/weixin-donate.jpeg" class="img-responsive"/>
+#+HTML:     <img src="./imgs/zhifubao-donate.jpeg" class="img-responsive"/>
 #+HTML:     <p class="text-center"><strong>支付宝</strong></p>
 #+HTML:   </div>
 #+HTML: </div>
