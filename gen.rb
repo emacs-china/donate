@@ -121,6 +121,7 @@ File.open('./README.md', 'w') { |f| f.write(page_md_outline.result(b)) }
 # Commit and push to Github
 #
 %x(
+git pull origin gh-pages
 git add --all
 git commit -m "Update"
 git push origin gh-pages
