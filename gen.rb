@@ -102,5 +102,5 @@ File.open('./index.html', 'w') { |f| f.write(page_outline.result(b)) }
 %x(
 git add --all
 git commit -m "Update"
-git push origin gh-page
+git push origin gh-pages
 )
