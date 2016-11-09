@@ -29,6 +29,9 @@ template_donation = %Q{
 </tr>
 }
 
+template_md_donation = %Q{| <%= date %> | [<%= person %>](<%= link %>) | <%= amount %> |
+}
+
 template_expense = %Q{
 <tr>
   <td class="org-left">
@@ -56,9 +59,14 @@ template_expense = %Q{
 </tr>
 }
 
+template_md_expense = %Q{| <%= date %> | [<%= person %>](<%= link %>) | <%= amount %> | <%= purpose %> | <%= remark %> |
+}
+
 
 output_donation = ''
 output_expense = ''
+output_md_donation = ''
+output_md_expense = ''
 
 csv.each_with_index do |record, index|
   next if index.zero?
@@ -82,11 +90,15 @@ csv.each_with_index do |record, index|
   if amount.to_f > 0
     total_amount += amount.to_f
     renderer = ERB.new(template_donation)
+    renderer_md = ERB.new(template_md_donation)
     output_donation << renderer.result(b)
+    output_md_donation << renderer_md.result(b)
   else
     total_expense += amount.to_f
     renderer = ERB.new(template_expense)
+    renderer_md = ERB.new(template_md_expense)
     output_expense << renderer.result(b)
+    output_md_expense << renderer_md.result(b)
   end
 end
 
@@ -99,6 +111,15 @@ b.local_variable_set(:list_expense, output_expense)
 
 File.open('./index.html', 'w') { |f| f.write(page_outline.result(b)) }
 
+page_md_outline = ERB.new(File.new('./temp.md.erb').read)
+
+b.local_variable_set(:list_donation_md, output_md_donation)
+b.local_variable_set(:list_expense_md, output_md_expense)
+
+File.open('./README.md', 'w') { |f| f.write(page_md_outline.result(b)) }
+
+# Commit and push to Github
+#
 %x(
 git add --all
 git commit -m "Update"
