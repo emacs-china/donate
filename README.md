@@ -14,7 +14,7 @@
 捐赠的总金额
 ------------
 
-3934.81 元
+2430.81 元
 
 捐赠款余额
 ----------
@@ -89,8 +89,6 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 2016-11-06 | [Yoyo]() | 50 |
 | 2016-11-06 | [DogLooksGood](https://github.com/DogLooksGood) | 50 |
 | 2016-09-21 | [zilongshanren](http://www.weibo.com/zilongshanren) | 320 |
-| 2016-09-21 | [zilongshanren](http://www.weibo.com/zilongshanren) | 1024 |
-| 2016-04-20 | [zilongshanren](http://www.weibo.com/zilongshanren) | 480 |
 
 
 捐赠金额用途
@@ -100,8 +98,6 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | --- | --- | --- | --- | --- |
 | 2016-12-2 | [emacs-china]() | -1963.8 | 购买阿里云 VPS 三年，用于搭建论坛 |  VPS 过期时间 2019-12-02 |
 | 2016-11-11 | [emacs-china]() | -78 | 域名从 godaddy 转移到万网并续费一年 | 方便后续 emacs-china.org 备案，域名过期时间 2020-02-12 |
-| 2016-10-01 | [zilongshanren]() | -1024 | 购买阿里云 VPS 两年搭建elpa镜像 | VPS 过期时间: 2018-09-21 |
-| 2016-04-01 | [zilongshanren]() | -480 | Linode 服务器 | 2016-04 至 2016-11 购买 Linode 服务器 |
 | 2016-04-01 | [zilongshanren]() | -320 | 购买域名 2 年 | 域名过期时间 2019-02-20 |
 
 
