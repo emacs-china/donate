@@ -45,7 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
-| 2016-12-8 | [zhcosin](https://github.com/zhcosin) | 10 |
+| 2017-1-13 | [zhcosin](https://github.com/zhcosin) | 10 |
 | 2016-12-8 | [swint]() | 50 |
 | 2016-12-2 | [GeekPlux](https://github.com/geekplux) | 52.1 |
 | 2016-11-23 | [fenglin](https://github.com/fenglinnet) | 50 |
