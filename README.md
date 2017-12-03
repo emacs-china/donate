@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-2831.29 元
+2864.29 元
 
 捐赠款余额
 ----------
 
-469.49 元
+502.49 元
 
 捐赠方法
 --------
@@ -45,6 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2017-10-25 | [ twlz0ne](https://github.com/twlz0ne) | 33 |
 | 2017-6-30 | [ pengpengxp](https://github.com/pengpengxp) | 50 |
 | 2017-4-28 | [ zpbird](https://github.com/zpbird) | 10 |
 | 2017-4-7 | [ young40](http://young40.com) | 40 |
