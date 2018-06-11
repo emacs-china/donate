@@ -46,7 +46,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
 | 2018-6-1 | [ young40](https://www.young40.com/) | 61.61 |
-| 2018-5-31 | [ ChrisZheng](https://github.com/topcpper) | 26 |
+| 2018-5-31 | [ topcpper](https://github.com/topcpper) | 26 |
 | 2018-4-23 | [ ChrisZheng](https://chriszheng.science/) | 100 |
 | 2018-4-19 | [ oracleyue](https://github.com/oracleyue) | 100 |
 | 2018-4-6 | [ chengxueming](https://github.com/chengxueming) | 100 |
