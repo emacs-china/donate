@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-3206.29 元
+3293.9 元
 
 捐赠款余额
 ----------
 
-844.49 元
+932.1 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2018-6-1 | [ young40](https://www.young40.com/) | 61.61 |
+| 2018-5-31 | [ ChrisZheng](https://github.com/topcpper) | 26 |
 | 2018-4-23 | [ ChrisZheng](https://chriszheng.science/) | 100 |
 | 2018-4-19 | [ oracleyue](https://github.com/oracleyue) | 100 |
 | 2018-4-6 | [ chengxueming](https://github.com/chengxueming) | 100 |
