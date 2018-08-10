@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-3411.9 元
+3541.9 元
 
 捐赠款余额
 ----------
 
-595.91 元
+725.91 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2018-8-10 | [ Qquanwei ](https://github.com/Qquanwei) | 100 |
+| 2018-8-9 | [ bittopaz  ](https://github.com/bittopaz) | 30 |
 | 2018-8-5 | [ aladdinwang ](https://github.com/aladdinwang) | 18 |
 | 2018-7-1 | [ 俞亮丞]() | 100 |
 | 2018-6-1 | [ young40](https://www.young40.com/) | 61.61 |
