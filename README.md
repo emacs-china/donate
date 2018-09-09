@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-3591.9 元
+3691.9 元
 
 捐赠款余额
 ----------
 
-775.91 元
+875.91 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2018-8-25 | [ tomtsang  ](https://github.com/tomtsang) | 50 |
+| 2018-8-13 | [ MarthaDora  ](https://github.com/MarthaDora) | 50 |
 | 2018-8-12 | [ 天然二呆  ](https://github.com/tumashu) | 50 |
 | 2018-8-10 | [ Qquanwei ](https://github.com/Qquanwei) | 100 |
 | 2018-8-9 | [ bittopaz  ](https://github.com/bittopaz) | 30 |
