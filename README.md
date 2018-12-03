@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-3791.9 元
+3841.9 元
 
 捐赠款余额
 ----------
 
-975.91 元
+1025.91 元
 
 捐赠方法
 --------
@@ -45,6 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2018-12-3 | [ 龙梓焱 ](https://github.com/lung-zijim) | 50 |
 | 2018-9-28 | [ cys ](https://github.com/gentcys) | 50 |
 | 2018-9-2 | [ kinney凯 ](https://github.com/Kinneyzhang) | 50 |
 | 2018-8-25 | [ tomtsang  ](https://github.com/tomtsang) | 50 |
