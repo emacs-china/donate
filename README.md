@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-3968.56 元
+4018.56 元
 
 捐赠款余额
 ----------
 
-1152.57 元
+1202.57 元
 
 捐赠方法
 --------
@@ -45,6 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2019-2-7 | [ guodongsoft](https://github.com/guodongsoft) | 50 |
 | 2019-1-30 | [ guodongsoft](https://github.com/guodongsoft) | 50 |
 | 2019-1-25 | [ jiftle](https://github.com/jiftle) | 10 |
 | 2018-12-24 | [ Peng Lei](https://github.com/kuppo) | 66.66 |
