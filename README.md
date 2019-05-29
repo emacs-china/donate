@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-4018.56 元
+4106.35 元
 
 捐赠款余额
 ----------
 
-1202.57 元
+1290.36 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2019-4-14 | [ young40]( https://www.young40.com/) |  40.36 |
+| 2019-3-31 | [ xuchunyang](https://github.com/xuchunyang) |  47.43 |
 | 2019-2-7 | [ guodongsoft](https://github.com/guodongsoft) | 50 |
 | 2019-1-30 | [ guodongsoft](https://github.com/guodongsoft) | 50 |
 | 2019-1-25 | [ jiftle](https://github.com/jiftle) | 10 |
