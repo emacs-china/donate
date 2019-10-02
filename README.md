@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-4376.35 元
+4476.35 元
 
 捐赠款余额
 ----------
 
-1560.36 元
+1660.36 元
 
 捐赠方法
 --------
@@ -45,6 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2019-10-1 | [ huza  ]() | 100 |
 | 2019-8-23 | [ 天然二呆  ](https://github.com/tumashu) | 50 |
 | 2019-6-27 | [ dancewhale]( https://emacs-china.org/u/dancewhale) |  20 |
 | 2019-6-4 | [ declanqian]( https://emacs-china.org/u/declanqian) |  100 |
