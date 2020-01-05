@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-6618.99 元
+6744.99 元
 
 捐赠款余额
 ----------
 
-10.0 元
+136.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,9 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2020-1-3 | [ wsug](https://github.com/wsug) | 30 |
+| 2019-12-27 | [ juxiemaotu](https://github.com/juxiemaotu) | 10 |
+| 2019-12-19 | [ ab9986](https://github.com/ab9986) | 86 |
 | 2019-12-7 | [ realasking](https://github.com/realasking) | 10 |
 | 2019-11-8 | [ zilongshanren](https://github.com/zilongshanren) | 2132.64 |
 | 2019-10-1 | [ huza  ]() | 100 |
