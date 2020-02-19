@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-6844.99 元
+6994.99 元
 
 捐赠款余额
 ----------
 
-158.0 元
+308.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2020-2-17 | [ oracleyue](https://github.com/oracleyue) | 100 |
+| 2020-2-16 | [ dengdeng](https://github.com/zhonghzhao) | 50 |
 | 2020-2-11 | [ %(fnil % ::larluo)]() | 100 |
 | 2020-1-3 | [ wsug](https://github.com/wsug) | 30 |
 | 2019-12-27 | [ juxiemaotu](https://github.com/juxiemaotu) | 10 |
