@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-7264.99 元
+7554.99 元
 
 捐赠款余额
 ----------
 
-578.0 元
+868.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,10 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2020-5-17 | [ vanniuner](https://github.com/vanniuner) | 20 |
+| 2020-5-11 | [ EthanLinyf](https://github.com/Ethanlinyf) | 200 |
+| 2020-5-6 | [ tumashu](https://github.com/tumashu) | 50 |
+| 2020-4-27 | [ zhcosin]() | 20 |
 | 2020-4-27 | [ Kathy_H]() | 100 |
 | 2020-4-08 | [ Gaowei]() | 20 |
 | 2020-3-09 | [ Qquanwei](https://github.com/Qquanwei) | 100 |
