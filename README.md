@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-7742.99 元
+7992.99 元
 
 捐赠款余额
 ----------
 
-978.0 元
+1228.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2021-3-6 | [ xuchunyang](https://github.com/xuchunyang) |  50 |
+| 2021-2-18 | [ LiuYinCarl](https://github.com/LiuYinCarl) | 100 |
 | 2020-12-29 | [ topcpper](https://github.com/topcpper) | 188 |
 | 2020-5-17 | [ vanniuner](https://github.com/vanniuner) | 20 |
 | 2020-5-11 | [ EthanLinyf](https://github.com/Ethanlinyf) | 200 |
@@ -52,6 +54,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 2020-4-27 | [ zhcosin]() | 20 |
 | 2020-4-27 | [ Kathy_H]() | 100 |
 | 2020-4-08 | [ Gaowei]() | 20 |
+| 2020-3-11 | [ linuxhui](https://github.com/linuxhui) | 100 |
 | 2020-3-09 | [ Qquanwei](https://github.com/Qquanwei) | 100 |
 | 2020-2-17 | [ oracleyue](https://github.com/oracleyue) | 100 |
 | 2020-2-16 | [ dengdeng](https://github.com/zhonghzhao) | 50 |
