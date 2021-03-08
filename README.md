@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-7992.99 元
+8092.99 元
 
 捐赠款余额
 ----------
 
-1228.0 元
+1328.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2021-3-6 | [ oracleyue](https://github.com/oracleyue) | 100 |
 | 2021-3-6 | [ xuchunyang](https://github.com/xuchunyang) |  50 |
 | 2021-2-18 | [ LiuYinCarl](https://github.com/LiuYinCarl) | 100 |
 | 2020-12-29 | [ topcpper](https://github.com/topcpper) | 188 |
