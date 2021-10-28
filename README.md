@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-8642.99 元
+9684.99 元
 
 捐赠款余额
 ----------
 
-1878.0 元
+2920.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,10 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2021-10-28 | [ 包昊军]() | 666 |
+| 2021-10-19 | [ anonymous]() | 321 |
+| 2021-9-25 | [ liuzhijun-source](https://github.com/liuzhijun-source) | 5 |
+| 2021-9-21 | [ tomryb](https://github.com/allenryb) | 50 |
 | 2021-8-25 | [ Sunng](https://github.com/sunng87) | 100 |
 | 2021-4-12 | [ EthanLinyf](https://github.com/Ethanlinyf) | 100 |
 | 2021-5-11 | [ 猫好奇]() | 100 |
