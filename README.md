@@ -45,7 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
-| 2021-12-15 | [ TRU]() | 188 |
+| 2021-12-15 | [ TRU](https://github.com/tru2dagame)) | 188 |
 | 2021-10-28 | [ 包昊军]() | 666 |
 | 2021-10-19 | [ anonymous]() | 321 |
 | 2021-9-25 | [ liuzhijun-source](https://github.com/liuzhijun-source) | 5 |
