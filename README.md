@@ -45,7 +45,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
-| 2022-03-06 | [ Virnus]() | 100 |
+| 2022-03-06 | [ Vinurs]() | 100 |
 | 2022-03-01 | [ Qquanwei](https://github.com/Qquanwei) | 100 |
 | 2022-01-14 | [ hackking](https://github.com/7ym0n) | 50 |
 | 2021-12-15 | [ TRU](https://github.com/tru2dagame) | 188 |
