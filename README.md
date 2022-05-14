@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-10122.99 元
+11122.99 元
 
 捐赠款余额
 ----------
 
-2321.0 元
+3321.0 元
 
 捐赠方法
 --------
@@ -45,6 +45,8 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2022-05-14 | [ seagle0128](https://github.com/seagle0128/.emacs.d) | 500 |
+| 2022-05-14 | [ manateelazycat](https://github.com/manateelazycat) | 500 |
 | 2022-03-06 | [ Vinurs]() | 100 |
 | 2022-03-01 | [ Qquanwei](https://github.com/Qquanwei) | 100 |
 | 2022-01-14 | [ hackking](https://github.com/7ym0n) | 50 |
