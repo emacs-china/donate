@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-12206.32 元
+12456.32 元
 
 捐赠款余额
 ----------
 
-4014.33 元
+4264.33 元
 
 捐赠方法
 --------
@@ -45,6 +45,9 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
+| 2022-08-08 | [ mowind88](https://github.com/mowind) | 50 |
+| 2022-07-31 | [ 北瓜](https://github.com/chunhuitrue) | 100 |
+| 2022-07-14 | [ Kreedzt](https://github.com/Kreedzt) | 50 |
 | 2022-06-25 | [ 啸傲居士](https://github.com/shuxiao9058) | 500 |
 | 2022-06-25 | [ 覃华添]() | 100 |
 | 2022-06-25 | [ zbelial]() | 100 |
@@ -53,6 +56,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 2022-06-25 | [ 王传强]() | 100 |
 | 2022-05-14 | [ seagle0128](https://github.com/seagle0128/.emacs.d) | 500 |
 | 2022-05-14 | [ manateelazycat](https://github.com/manateelazycat) | 500 |
+| 2022-04-12 | [ tumashu](https://github.com/tumashu) | 50 |
 | 2022-03-06 | [ Vinurs]() | 100 |
 | 2022-03-01 | [ Qquanwei](https://github.com/Qquanwei) | 100 |
 | 2022-01-14 | [ hackking](https://github.com/7ym0n) | 50 |
@@ -179,8 +183,9 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 
 | 日期 | 授权 | 费用（元） | 支出项目 | 备注 |
 | --- | --- | --- | --- | --- |
-| 2022-06-25 | [ emacs-china]() | -100 |  迁移VPS到linode |  目前一个月的开支是15刀左右 |
+| 2022-06-25 | [ emacs-china]() | -100 |  迁移VPS到linode |  目前一个月的开支是26刀左右 |
 | 2022-06-21 | [ emacs-china]() | -290 |  迁移域名到Godaddy |  |
+| 2022-04-12 dbv771 | [https://github.com/dbv771](50) | weixin |  |  |
 | 2021-12-18 | [emacs-china]() | -525 | 升级论坛配置，硬盘从原来的40G扩容到100G，论坛版本升级到最新 |  |
 | 2021-11-04 | [emacs-china]() | -168 | mailgun 邮件服务费用一年 |  |
 | 2021-11-04 | [emacs-china]() | -168 | mailgun 邮件服务费用一年 |  |
