@@ -14,12 +14,12 @@
 捐赠的总金额
 ------------
 
-12606.32 元
+12656.32 元
 
 捐赠款余额
 ----------
 
-4234.33 元
+4284.33 元
 
 捐赠方法
 --------
@@ -46,6 +46,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
 | 2022-08-08 | [ mowind88](https://github.com/mowind) | 50 |
+| 2022-08-02 | [ 韩暮秋](https://github.com/muqiuhan) | 50 |
 | 2022-08-03 | [ LimingFang](https://github.com/LimingFang) | 100 |
 | 2022-07-31 | [ 北瓜](https://github.com/chunhuitrue) | 100 |
 | 2022-07-14 | [ Kreedzt](https://github.com/Kreedzt) | 50 |
