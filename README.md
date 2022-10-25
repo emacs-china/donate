@@ -46,7 +46,7 @@ guanghui8827@126.com 转帐（请注明转帐意图）
 | 捐赠日期 | 捐赠者 | 捐赠金额 |
 | --- | --- | --- |
 | 2022-10-24 | [ 小猪]() | 80 |
-| 2022-10-21 | [ :]() | 50 |
+| 2022-10-21 | [ rifiuto](https://emacs-china.org/u/rifiuto/preferences/account) | 50 |
 | 2022-08-08 | [ mowind88](https://github.com/mowind) | 50 |
 | 2022-08-02 | [ 韩暮秋](https://github.com/muqiuhan) | 50 |
 | 2022-08-03 | [ LimingFang](https://github.com/LimingFang) | 100 |
